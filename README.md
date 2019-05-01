@@ -1,2 +1,4 @@
 # hello-world
-heheh
+
+Hi people
+I am from Switzerland and I try to learn coding with Github.
